@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ZERO-DAWN-X/ZERO-DAWN-X/main/assets/banner.gif" alt="Banner" width="100%">
 </div>
 
-# 👋 Hello, I'm Tharindu Chamuditha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# 👋 Hello, I'm Harindu Weligepola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm *Tharindu Chamuditha*, a passionate Software Engineering student at SLIIT Uni, bringing ideas to life through code! Driven by curiosity, I push tech's boundaries, from sleek web apps to immersive mobile and game experiences. As a UI/UX enthusiast, I believe design enhances user experiences. Let's build something great together! 🚀
+Hey there! I'm *Harindu Weligepola*, a passionate IT student at SLIIT Uni, bringing ideas to life through code! Driven by curiosity, I push tech's boundaries, from sleek web apps to immersive mobile and game experiences. As a UI/UX enthusiast, I believe design enhances user experiences. Let's build something great together! 🚀
 
 <details>
   <summary><b>More About Me</b></summary>
@@ -56,8 +56,8 @@ Hey there! I'm *Tharindu Chamuditha*, a passionate Software Engineering student 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CrazeSliit&show_icons=true&theme=radical&hide_border=true&card_width=495" alt="GitHub Stats" height="200" style="max-width: 100%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrazeSliit&theme=radical&hide_border=true&card_width=495" alt="GitHub Streak" height="200" style="max-width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarinduWeligepola&show_icons=true&theme=radical&hide_border=true&card_width=495" alt="GitHub Stats" height="200" style="max-width: 100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarinduWeligepola&theme=radical&hide_border=true&card_width=495" alt="GitHub Streak" height="200" style="max-width: 100%;" />
 </p>
 
 ---
@@ -88,13 +88,13 @@ Hey there! I'm *Tharindu Chamuditha*, a passionate Software Engineering student 
 I'm open to collaborations, tech discussions, or just a friendly chat about code. Reach out anytime!
 
 <p align="center">
-  <a href="https://github.com/CrazeSliit" target="_blank">
+  <a href="https://github.com/HarinduWeligepola" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tharindu-chamuditha-35b85426b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:chamudithakyt21@gmail.com">
+  <a href="mailto:harinduweligepola2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -106,13 +106,13 @@ I'm open to collaborations, tech discussions, or just a friendly chat about code
 If you like this project and want to support it:
 
 <p align="center">
-  <a href="https://github.com/CrazeSliit" target="_blank">
+  <a href="https://github.com/HarinduWeligepola" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://patreon.com/TharinduChamuditha" target="_blank">
+  <a href="https://patreon.com/HarinduWeligepola" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
   </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
+  <a href="https://twitter.com/harinduweligepola" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>

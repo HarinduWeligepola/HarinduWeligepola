@@ -58,6 +58,7 @@ Hey there! I'm *Harindu Weligepola*, a passionate IT student at SLIIT Uni, bring
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarinduWeligepola&show_icons=true&theme=radical&hide_border=true&card_width=495" alt="GitHub Stats" height="200" style="max-width: 100%;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarinduWeligepola&theme=radical&hide_border=true&card_width=495" alt="GitHub Streak" height="200" style="max-width: 100%;" />
+
 </p>
 
 ---

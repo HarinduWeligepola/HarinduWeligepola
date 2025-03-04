@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm *Harindu Weligepola*, a passionate IT student at SLIIT Uni, bringing ideas to life through code! Driven by curiosity, I push tech's boundaries, from sleek web apps to immersive mobile and game experiences. As a UI/UX enthusiast, I believe design enhances user experiences. Let's build something great together! 🚀
+Hey there! I'm *Harindu Weligepola*, an IT student at SLIIT University, passionate about turning ideas into reality through code. With a deep curiosity for technology, I explore everything from sleek web apps to immersive mobile and game experiences. As a UI/UX enthusiast, I believe great design elevates user experiences. Let’s create something amazing! 🚀
 
 <details>
   <summary><b>More About Me</b></summary>

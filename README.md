@@ -1,125 +1,27 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZERO-DAWN-X/ZERO-DAWN-X/main/assets/banner.gif" alt="Banner" width="100%">
-</div>
+# 💫 About Me:
+🔭 I’m currently working on:<br>• A dynamic web application that leverages the power of cloud computing.<br>• Enhancing the user experience of a mobile game with intuitive UI/UX designs.<br>• Developing a portfolio website to showcase my full stack development projects.<br><br>👯 I’m looking to collaborate on:<br>• Innovative web applications and startup ideas.<br>• Open-source projects where I can contribute my design and coding skills.<br>• Mobile apps that need both development and sleek UI/UX design.<br><br>🤝 I’m looking for help with:<br>• Feedback and suggestions on my latest UI/UX designs.<br>• Beta testers for my upcoming mobile applications.<br>• Networking with industry professionals and mentors.<br><br>🌱 I’m currently learning:<br>• Advanced React and Node.js for full stack development.<br>• Cutting-edge UI/UX design principles.<br>• Mobile photo editing techniques to enhance visual storytelling.<br><br>💬 Ask me about:<br>• Full stack development processes and best practices.<br>• UI/UX design trends and tools.<br>• Tips for mobile photo editing and creating stunning visuals.
 
-# 👋 Hello, I'm Harindu Weligepola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+%26+Game+Developer;UI+Designer;AI+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/harinduweligep) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Harindu.Weligepola) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__harinduu___) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/harinduweligepola) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@harindu_v) 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZERO-DAWN-X&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HarinduWeligepola&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HarinduWeligepola&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarinduWeligepola&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HarinduWeligepola&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-Hey there! I'm *Harindu Weligepola*, an IT student at SLIIT University, passionate about turning ideas into reality through code. With a deep curiosity for technology, I explore everything from sleek web apps to immersive mobile and game experiences. As a UI/UX enthusiast, I believe great design elevates user experiences. Let’s create something amazing! 🚀
-
-<details>
-  <summary><b>More About Me</b></summary>
-  I’m constantly learning and exploring new technologies and methodologies, committed to innovation in web and mobile development, UI/UX, and game design.
-</details>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HarinduWeligepola&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=HarinduWeligepola&icon=8&color=0)](https://visitcount.itsvg.in)
 
-## 💼 What I Do
-
-<table>
-  <tr><td>🖥 Full-stack web development</td><td>📱 Cross-platform mobile apps</td></tr>
-  <tr><td>🎮 Game development</td><td>🎨 UI/UX design</td></tr>
-  <tr><td>🧠 ML & AI exploration</td><td>🚀 Performance optimization</td></tr>
-</table>
-
----
-
-## 🛠 Languages and Tools
-
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40"/>&nbsp;
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarinduWeligepola&show_icons=true&theme=radical&hide_border=true&card_width=495" alt="GitHub Stats" height="200" style="max-width: 100%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarinduWeligepola&theme=radical&hide_border=true&card_width=495" alt="GitHub Streak" height="200" style="max-width: 100%;" />
-
-</p>
-
----
-
-## 🌟 Highlighted Skills
-
-- *Frontend*: React, HTML5, CSS3, JavaScript
-- *Backend*: Node.js, Express, MongoDB
-- *Mobile Development*: Flutter, React Native
-- *Game Development*: Unity, Unreal Engine
-- *UI/UX*: Figma, Adobe XD, Responsive Design
-- *Cloud*: AWS, Firebase
-
----
-
-## 🌱 Current Focus
-
-- 🤖 Machine Learning and AI
-- 📱 Cross-platform mobile development
-- 🎮 Game development with Unity and Unreal Engine
-- 🚀 Cloud and serverless architectures
-- 🔐 Cybersecurity best practices
-
----
-
-## 💬 Let's Connect!
-
-I'm open to collaborations, tech discussions, or just a friendly chat about code. Reach out anytime!
-
-<p align="center">
-  <a href="https://github.com/HarinduWeligepola" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/tharindu-chamuditha-35b85426b/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:harinduweligepola2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-## 💖 Support This Project
-
-If you like this project and want to support it:
-
-<p align="center">
-  <a href="https://github.com/HarinduWeligepola" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://patreon.com/HarinduWeligepola" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
-  </a>
-  <a href="https://twitter.com/harinduweligepola" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>Thanks for visiting! Have a great day! 👋</em>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

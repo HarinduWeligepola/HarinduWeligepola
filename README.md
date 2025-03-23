@@ -33,5 +33,6 @@
 
 </div>
 
+![snake gif](https://github.com/HarinduWeligepola/HarinduWeligepola/blob/output/github-snake-dark.svg)
 
 

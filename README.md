@@ -2,53 +2,59 @@
 
 ### 🎨 Creative Multimedia Developer | 🎮 Game Development | 🥽 Immersive Experiences
 
-I'm an Information Technology undergraduate passionate about combining **creativity, technology, and interaction** to build engaging digital experiences. My interests span game development, immersive VR experiences, UI/UX design, 3D environments, multimedia production, and interactive applications.
+I'm an Information Technology undergraduate passionate about combining **creativity, technology, and interaction** to build engaging digital experiences.
 
-I enjoy working at the intersection of design and development — transforming ideas into interactive experiences that people can see, hear, explore, and engage with.
+My interests span game development, immersive VR experiences, Unreal Engine, Unity, 3D environments, UI/UX design, interactive applications, and multimedia production. I enjoy bringing ideas to life through a combination of creative design and technical development.
 
-- 🥽 **Currently working on:** A physically augmented VR bridge experience featuring a prehistoric environment, a Mosasaurus encounter, and synchronized physical and virtual interactions.
-- 🎮 **Interested in:** Game development, gameplay programming, interactive storytelling, and immersive technologies.
-- 🎨 **Creative side:** UI/UX design, 3D modeling, visual design, video editing, and motion graphics.
-- 💻 **Development interests:** Interactive applications, creative coding, and full-stack web development.
-- 🤝 **Open to:** Creative collaborations, game development projects, immersive experiences, and open-source opportunities.
+- 🥽 **Currently working on:** A physically augmented VR bridge experience combining a real bridge with an immersive prehistoric virtual environment.
+- 🎮 **Game Development:** Exploring game engines, gameplay programming, interactive environments, and real-time experiences.
+- 🧊 **3D & Environment Design:** 3D modeling, texturing, lighting, rendering, and asset optimization.
+- 🎨 **Creative Development:** UI/UX design, graphic design, video editing, and motion graphics.
+- 💻 **Programming:** Interactive applications and web development.
+- 🤝 **Open to:** Creative collaborations, game development projects, immersive experiences, and open-source contributions.
 
 ---
 
 ## 🚀 Featured Project
 
-### 🦖 The Mesozoic Era: Mosasaurus Bridge Encounter
+### 🦖 The Mesozoic Era — Mosasaurus Bridge Encounter
 
 **A physically augmented virtual reality experience**
 
-An immersive experience that combines a real-world rope bridge with a virtual prehistoric environment, creating a connection between physical movement and digital storytelling.
+An immersive experience that combines a physical rope bridge with a virtual prehistoric environment, synchronizing physical movement with digital storytelling.
 
-**Highlights**
-- 🥽 **Hybrid VR Experience:** Combines a physical bridge with a synchronized virtual bridge.
+**Key Features**
+
+- 🥽 **Hybrid VR Experience:** A real-world bridge aligned with its virtual counterpart.
 - 🦖 **Mosasaurus Encounter:** A scripted prehistoric creature encounter triggered during the crossing.
 - 🪽 **Pterodactyl Flyby:** An animated aerial creature sequence.
-- 🔊 **Spatial Audio:** Environmental sounds and creature effects that enhance immersion.
-- ⚙️ **Interactive Systems:** Trigger-based events, animation control, and physical-virtual synchronization.
-- 🌊 **Environmental Storytelling:** A prehistoric coastal setting designed around scale, tension, and presence.
+- 🔊 **Spatial Audio:** Environmental and creature sounds designed to enhance immersion.
+- ⚙️ **Interactive Systems:** Trigger-based events, animation control, and synchronized physical and virtual interactions.
+- 🌊 **Environmental Storytelling:** A prehistoric coastal setting built around scale, tension, and presence.
 
-**Technologies:** Unity 6, C#, OpenXR, Meta XR SDK, FMOD Studio.
+**Technologies Used**
 
-The project explores how physical interaction, real-time animation, sound, and virtual environments can work together to create a more engaging immersive experience.
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![OpenXR](https://img.shields.io/badge/OpenXR-333333?style=flat-square)
+![Meta XR](https://img.shields.io/badge/Meta_XR-0467DF?style=flat-square&logo=meta&logoColor=white)
+![FMOD](https://img.shields.io/badge/FMOD-000000?style=flat-square)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎮 Game Development & Immersive Technologies
 
-### 🎮 Game Development & Immersive Technologies
-
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![OpenXR](https://img.shields.io/badge/OpenXR-333333?style=for-the-badge)
-![Meta](https://img.shields.io/badge/Meta_XR-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![FMOD](https://img.shields.io/badge/FMOD-000000?style=for-the-badge)
+![Meta XR](https://img.shields.io/badge/Meta_XR-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-Game design • Gameplay programming • Level design • VR development • Interactive storytelling
+Game design • Gameplay programming • Level design • VR development • Interactive storytelling • Real-time environments
 
-### 🎨 Creative Design & Multimedia
+---
+
+## 🎨 Creative Design & Multimedia
 
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -60,11 +66,20 @@ Game design • Gameplay programming • Level design • VR development • Int
 
 Video editing • Motion graphics • Graphic design • UI/UX design • Wireframing • Prototyping • Visual storytelling
 
-### 🧊 3D Design & Digital Environments
+---
 
-3D modeling • 3D texturing • Lighting and rendering • Low-poly and high-poly modeling • Asset optimization • Game environments
+## 🧊 3D Design & Digital Environments
 
-### 💻 Programming & Web Technologies
+- 3D modeling and texturing
+- Low-poly and high-poly modeling
+- Lighting and rendering
+- Game environment design
+- 3D asset optimization
+- Interactive environment creation
+
+---
+
+## 💻 Programming & Web Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -76,7 +91,9 @@ Video editing • Motion graphics • Graphic design • UI/UX design • Wirefr
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Databases, Cloud & Development Tools
+---
+
+## 🗄️ Databases, Cloud & Development Tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -102,13 +119,16 @@ Video editing • Motion graphics • Graphic design • UI/UX design • Wirefr
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarinduWeligepola&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=Harindu%27s%20GitHub%20Stats" alt="Harindu's GitHub Stats" />
+<a href="https://github.com/HarinduWeligepola">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarinduWeligepola&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&custom_title=Harindu%27s%20GitHub%20Stats" alt="Harindu's GitHub Stats" />
+</a>
+<a href="https://github.com/HarinduWeligepola">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarinduWeligepola&layout=compact&theme=tokyonight&hide_border=true" alt="Harindu's Most Used Languages" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarinduWeligepola&layout=compact&theme=tokyonight&hide_border=true" alt="Harindu's Most Used Languages" />
+<br/><br/>
 
-<br/>
-
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=HarinduWeligepola&theme=tokyonight&hide_border=true" alt="Harindu's GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=HarinduWeligepola&theme=tokyonight&hide_border=true" alt="Harindu's GitHub Contribution Streak" />
 
 </div>
 
@@ -118,7 +138,9 @@ Video editing • Motion graphics • Graphic design • UI/UX design • Wirefr
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HarinduWeligepola&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Harindu's GitHub Trophies" />
+<a href="https://github.com/HarinduWeligepola">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarinduWeligepola&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Harindu's GitHub Trophies" />
+</a>
 
 </div>
 
@@ -128,7 +150,7 @@ Video editing • Motion graphics • Graphic design • UI/UX design • Wirefr
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 
 </div>
 
@@ -140,8 +162,4 @@ Video editing • Motion graphics • Graphic design • UI/UX design • Wirefr
 
 *Design. Develop. Experiment. Create.*
 
-![Profile Views](https://visitcount.itsvg.in/api?id=HarinduWeligepola&icon=8&color=6)
-
 </div>
-
-![GitHub Contribution Snake](https://github.com/HarinduWeligepola/HarinduWeligepola/blob/output/github-snake-dark.svg)

@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=HarinduWeligepola&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=HarinduWeligepola&theme=dark&hide_border=false&include_all_commits=false&count_private=false&custom_title=Harindu's%20GitHub%20Stats" />
 
 ![](https://nirzak-streak-stats.vercel.app/?user=HarinduWeligepola&theme=dark&hide_border=false)<br/>
 

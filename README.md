@@ -134,14 +134,31 @@ Video editing • Motion graphics • Graphic design • UI/UX design • Wirefr
 
 ---
 
-## 🏆 GitHub Trophies
+## ✍️ Developer Quote
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HarinduWeligepola&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Harindu's GitHub Trophies" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 
 </div>
 
 ---
 
-##
+<div align="center">
+
+### 💫 Building at the intersection of creativity and technology.
+
+*Design. Develop. Experiment. Create.*
+
+</div>
+
+---
+
+## 🐍 My Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HarinduWeligepola/HarinduWeligepola/output/github-snake-dark.svg" alt="Harindu's GitHub Contribution Snake" />
+
+</div>
+

@@ -7,7 +7,7 @@ I'm an Information Technology undergraduate passionate about combining **creativ
 My interests span game development, immersive VR experiences, Unreal Engine, Unity, 3D environments, UI/UX design, interactive applications, and multimedia production. I enjoy bringing ideas to life through a combination of creative design and technical development.
 
 - 🥽 **Currently working on:** A physically augmented VR bridge experience combining a real bridge with an immersive prehistoric virtual environment.
-- 🎮 **Game Development:** Exploring game engines, gameplay programming, interactive environments, and real-time experiences.
+- 🎮 **Game Development:** Game engines, gameplay programming, level design, and interactive environments.
 - 🧊 **3D & Environment Design:** 3D modeling, texturing, lighting, rendering, and asset optimization.
 - 🎨 **Creative Development:** UI/UX design, graphic design, video editing, and motion graphics.
 - 💻 **Programming:** Interactive applications and web development.
@@ -21,7 +21,7 @@ My interests span game development, immersive VR experiences, Unreal Engine, Uni
 
 **A physically augmented virtual reality experience**
 
-An immersive experience that combines a physical rope bridge with a virtual prehistoric environment, synchronizing physical movement with digital storytelling.
+An immersive experience combining a physical rope bridge with a virtual prehistoric environment, synchronizing physical movement with digital storytelling.
 
 **Key Features**
 
@@ -138,28 +138,10 @@ Video editing • Motion graphics • Graphic design • UI/UX design • Wirefr
 
 <div align="center">
 
-<a href="https://github.com/HarinduWeligepola">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarinduWeligepola&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Harindu's GitHub Trophies" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=HarinduWeligepola&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Harindu's GitHub Trophies" />
 
 </div>
 
 ---
 
-## ✍️ Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 Building at the intersection of creativity and technology.
-
-*Design. Develop. Experiment. Create.*
-
-</div>
+##
